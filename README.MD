@@ -1,0 +1,1 @@
+This is public repo with information about QR History iOS application by Andrey Romanov
